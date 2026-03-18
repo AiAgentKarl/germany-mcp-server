@@ -2,6 +2,8 @@
 
 MCP-Server der AI-Agents Zugriff auf deutsche Behörden-Daten gibt — Autobahn-Verkehr, Wetter, Katastrophenwarnungen, Energiemarkt, Bundestag und Pollenflug.
 
+[![germany-mcp-server MCP server](https://glama.ai/mcp/servers/AiAgentKarl/germany-mcp-server/badges/card.svg)](https://glama.ai/mcp/servers/AiAgentKarl/germany-mcp-server)
+
 ## 12 Tools in 6 Kategorien
 
 ### Verkehr (Autobahn)

@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "germany-mcp-server"
-version = "0.1.1"
+version = "0.1.2"
 description = "MCP-Server für deutsche Behörden-Daten — Autobahn, Wetter, Warnungen, Energie, Politik und mehr"
 readme = "README.md"
 license = "MIT"

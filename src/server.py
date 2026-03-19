@@ -37,5 +37,10 @@ register_politik_tools(mcp)
 register_gesundheit_tools(mcp)
 
 
+def main():
+    """Server starten."""
+    mcp.run(transport="stdio")
+
+
 if __name__ == "__main__":
-    mcp.run()
+    main()

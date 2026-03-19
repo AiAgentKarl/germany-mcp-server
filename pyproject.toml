@@ -29,5 +29,8 @@ Homepage = "https://github.com/AiAgentKarl/germany-mcp-server"
 Repository = "https://github.com/AiAgentKarl/germany-mcp-server"
 Issues = "https://github.com/AiAgentKarl/germany-mcp-server/issues"
 
+[project.scripts]
+germany-server = "src.server:main"
+
 [tool.hatch.build.targets.wheel]
 packages = ["src"]

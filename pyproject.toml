@@ -4,13 +4,13 @@ build-backend = "hatchling.build"
 
 [project]
 name = "germany-mcp-server"
-version = "0.1.2"
-description = "MCP-Server für deutsche Behörden-Daten — Autobahn, Wetter, Warnungen, Energie, Politik und mehr"
+version = "0.2.0"
+description = "MCP-Server für deutsche Behörden-Daten — Autobahn, Wetter, Warnungen, Energie, Statistik, Gesetze, Politik und mehr"
 readme = "README.md"
 license = "MIT"
 requires-python = ">=3.11"
 authors = [{ name = "AiAgentKarl" }]
-keywords = ["mcp", "germany", "open-data", "bundesapi", "ai-agent"]
+keywords = ["mcp", "germany", "open-data", "bundesapi", "ai-agent", "destatis", "dwd", "gesetze"]
 classifiers = [
     "Development Status :: 4 - Beta",
     "Intended Audience :: Developers",

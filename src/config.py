@@ -42,6 +42,15 @@ class Settings:
     # Pollenflug (DWD Open Data)
     pollen_base_url: str = "https://opendata.dwd.de/climate_environment/health/alerts"
 
+    # Eurostat (offizielle Destatis-Daten als freie JSON-API)
+    eurostat_base_url: str = "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0"
+
+    # Gesetze-im-Internet (BMJ — Bundesgesetze)
+    gesetze_base_url: str = "https://www.gesetze-im-internet.de"
+
+    # DWD Wetterwarnungen (JSONP-Endpoint)
+    dwd_warnings_url: str = "https://www.dwd.de/DWD/warnungen/warnapp/json/warnings.json"
+
     # HTTP-Client Defaults
     http_timeout: float = 30.0
 
